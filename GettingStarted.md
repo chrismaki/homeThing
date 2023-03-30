@@ -1,25 +1,5 @@
 <h1 align = "center">ESPHome Remote: Getting Started 🌈</h1>
 
-# Introduction
-#### ESPHome Remote supports the following features:
-
-- controls Sonos speakers
-	-   play, pause, next, prev, volume, shuffle, mute
-	-   manage group
-	-   change source
-- controls Roku tv
-	- up, down, left, right, select, volume
-	- change source
-- Smart home stuff
-	- runs scenes and scripts
-	- view Home Assistant Sensors
-    - Lights:
-        - toggle lights on and off 
-        - adjust light brightness (if light supports it)
-        - adjust color temperature (if light supports it)
-- more
-	- display sleeps after 16s, powers off after 2h (configure through substitutions)
-
 # What You Need
 -  Hardware (pick one):
 	- TTGo T-Display
